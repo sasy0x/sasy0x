@@ -1,19 +1,8 @@
-<div align="center">
-
-<a href="https://github.com/sasy0x">
-  <img src="https://i.imgur.com/Jl2dxLZ.png" width="88%" alt="banner"/>
-</a>
-
-</div>
-
----
-
-<h3 align="center">About me</h3>
+# 🍕 sasy0x
 
 <p align="center">
-  I’m <b>Salvatore</b> — known as <b>sasy0x</b> — a developer driven by <b>cybersecurity</b>, <b>software architecture</b>, and <b>network systems</b>.<br>
-  My focus is on building efficient, privacy-oriented tools that combine <b>AI</b>, <b>automation</b>, and <b>real-world security logic</b>.<br>
-  Technology, for me, is not about code. It’s about <b>control, awareness, and creation</b>.
+  I’m <b>sasy0x</b> a developer driven by <b>cybersecurity</b>, <b>software architecture</b>, and <b>network systems</b>.<br>
+  My focus is on building efficient, privacy-oriented results that combine <b>AI</b>, <b>automation</b>, and <b>real-world security logic</b>.<br>
 </p>
 
 ---
