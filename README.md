@@ -11,11 +11,12 @@
 
 ### Technical Stack
 
-| Web Development | Software & Scripting | Systems & Security |
-| :--------------: | :-----------------: | :----------------: |
-| <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" /> | <img src="https://skillicons.dev/icons?i=python,cpp,java,lua" /> | <img src="https://skillicons.dev/icons?i=linux,bash,git,raspberrypi" /> |
+| Web Development | Software & Scripting | Systems & Security | Database Management |
+| :--------------: | :-----------------: | :----------------: | :-----------------: |
+| <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" /> | <img src="https://skillicons.dev/icons?i=python,cpp,java,lua" /> | <img src="https://skillicons.dev/icons?i=linux,bash,git,raspberrypi" /> | <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,mongodb" /> |
 
 </div>
+
 
 ---
 
