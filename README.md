@@ -24,13 +24,9 @@
 
 ### Analytics
 
-| Overview | Activity |
+| Overview | Languages |
 | :-------: | :-------: |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=sasy0x&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sasy0x&theme=tokyonight&hide_border=true) |
-
-| Languages |
-| :--------: |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasy0x&theme=tokyonight&layout=compact&hide_border=true) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=sasy0x&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasy0x&theme=tokyonight&layout=compact&hide_border=true) |
 
 </div>
 
